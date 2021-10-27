@@ -2,6 +2,10 @@
 
 > Open Npm webpage by popclip
 
+## Installation
+
+Make sure you've installed [PopClip](http://pilotmoon.com/popclip/), download the `.popclipextz` or `.popclipext` files and double click.
+
 ## Usage
 
 Select npm package name and click npm icon of `popclip`.
