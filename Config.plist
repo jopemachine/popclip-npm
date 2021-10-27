@@ -36,5 +36,19 @@
 				<string>jopemachine</string>
 			</dict>
 		</array>
+  <key>Options</key>
+	<array>
+		<dict>
+			<key>Option Identifier</key>
+			<string>useGithub</string>
+			<key>Option Type</key>
+			<string>boolean</string>
+			<key>Option Label</key>
+			<dict>
+				<key>en</key>
+				<string>Search Github with shift</string>
+			</dict>
+		</dict>
+	</array>
 </dict>
 </plist>
