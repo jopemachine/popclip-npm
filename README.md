@@ -17,7 +17,7 @@ With `shift` key, search Github repos through the selected word.
 
 To build extension, run below code.
 
-```ts
+```shell-script
 $ deno run -A --unstable mod.ts
 ```
 
