@@ -1,5 +1,4 @@
 on run
-	display dialog "{popclip option useGithub}"
 	tell application "System Events"
 		if "{popclip modifier flags}" is "131072" and "{popclip option useGithub}" is "1" then
 			open location "https://github.com/search?q=" & "{popclip text}"
